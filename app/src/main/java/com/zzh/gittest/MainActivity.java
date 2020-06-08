@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    // remote branch
+    // remote branch 68remote
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
