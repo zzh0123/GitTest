@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     // branch2 remote test
     // branch2 remote test2
     // branch2 remote test3
+    // branch2 remote test4
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
