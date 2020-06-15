@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     // hehe update1
     // hehe update2
     // hehe update3
+    // hehe7 change
     // hehe update4
     // hehe update5
     // hehe update6
@@ -21,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
     // hehe update7 test
 
     // hehe youren commit
+
+    // hehe7 commit
+    // hehe7 change branch hehe
+    // hehe7 change again
+    // hehe7 commit hehe
     // hehe new
     @Override
     protected void onCreate(Bundle savedInstanceState) {
