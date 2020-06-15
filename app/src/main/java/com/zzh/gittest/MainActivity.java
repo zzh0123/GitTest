@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     // hehe7 change branch hehe
     // hehe7 change again
     // hehe7 commit hehe
+
+    // hehe7 new
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
