@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // new_branch_2
+        // add code 2
         super.onCreate(savedInstanceState);
     }
 }
