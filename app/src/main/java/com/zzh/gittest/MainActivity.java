@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     // remote branch
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        // new_branch_2
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
     }
 }
